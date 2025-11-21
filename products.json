@@ -1,0 +1,51 @@
+[
+  {
+    "id": "veo3",
+    "name": "Veo3 Ultra (đã có sđt) 45.000 Credit + Gemini Ultra",
+    "price": 25000,
+    "stock": 0,
+    "warranty": "Bảo hành full"
+  },
+  {
+    "id": "gpt_team_full",
+    "name": "Admin Chat GPT Team Business 1 tháng 7 Slot",
+    "price": 120000,
+    "stock": 0,
+    "warranty": "Bảo hành full"
+  },
+  {
+    "id": "gpt_team_no",
+    "name": "Admin Chat GPT Team Business 1 tháng 7 Slot",
+    "price": 40000,
+    "stock": 0,
+    "warranty": "Không Bảo Hành"
+  },
+  {
+    "id": "gpt_go_no",
+    "name": "Chat GPT Go 1 năm cấp sẵn",
+    "price": 25000,
+    "stock": 0,
+    "warranty": "Không Bảo Hành"
+  },
+  {
+    "id": "gpt_go_yes",
+    "name": "Chat GPT Go 1 năm cấp sẵn",
+    "price": 50000,
+    "stock": 0,
+    "warranty": "Bảo Hành 1 tháng"
+  },
+  {
+    "id": "capcut_7d",
+    "name": "Capcut 7 ngày 4600 tín dụng",
+    "price": 5000,
+    "stock": 0,
+    "warranty": "Không Bảo Hành"
+  },
+  {
+    "id": "canva_edu",
+    "name": "Admin Canva EDU fam cấp sẵn (3 năm 500 slot)",
+    "price": 20000,
+    "stock": 0,
+    "warranty": "Không Bảo Hành"
+  }
+]
