@@ -1,0 +1,15 @@
+
+[
+  {
+    "product_id": "capcut_7d",
+    "username": "example1@email.com",
+    "password": "pass123",
+    "used": 0
+  },
+  {
+    "product_id": "gpt_go_no",
+    "username": "example2@email.com",
+    "password": "pass123",
+    "used": 0
+  }
+]
